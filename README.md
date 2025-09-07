@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasurudeen Ahamed N</h1>
-<h3 align="center">Blockchain Research Scholar</h3>
+<h3 align="center">Postdoc Fellow</h3>
 <img align="center" alt="image" src="https://t3.ftcdn.net/jpg/02/24/60/00/360_F_224600069_W7lxO3jE7CZ5s3izuhIoK5uSrDUz9x6W.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasurudeen31&label=Profile%20views&color=0e75b6&style=flat" alt="nasurudeen31" /> </p>
